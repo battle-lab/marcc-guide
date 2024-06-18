@@ -24,4 +24,5 @@ The lab uses Slack for most quick communication, so don't hesitate to direct mes
 ### Get familiar with the research
 The [lab website](https://battlelab.jhu.edu/) has a *Publications* section that you can check out for a full list of the lab's previous work.  For a longer list of recommended papers in each of the lab's areas of interest, check out [this compiled list of relevant papers](https://docs.google.com/document/d/1mLs9rMtLIp2Xu4z7ChIIcp838jDdPdoYkHoynu_2NBY/edit).
 
-
+### Recommended courses and useful resources for Battle lab members
+Please review [this Google doc](https://docs.google.com/document/d/1sOchGRhWAyxu6ZbJr9wBWk1WOD8ik49UKbNl0NXw5SA/edit?usp=sharing) for classes and resources related to biostatistics, genomics research, machine learning, computer science, human genetics, and programming.
